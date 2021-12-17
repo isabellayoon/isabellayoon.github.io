@@ -4,25 +4,21 @@ icon: fas fa-chalkboard-teacher
 order: 2
 ---
 ## Teaching Fellow
-- FINC102: Business Mathematics
-  - 2021S2 (First half) (Instructor)
-
-- FINC204: Personal Finance
-  - 2021SS, 2022SS (Instructor/Course Coordinator)
-
-## Guest Lecturer
-- PERF205/305: The Creative Industries
-  - 2021S1 (3 Lectures on personal finance and basic business structures in NZ)
+- BSNS114: Financial Decision Making
+  - 2021S2 (Second half) (Instructor)
 
 ## Tutoring
+- BSNS114: Financial Decision Making
+  - 2021S1
+  
+- FINC306: Derivatives
+  - 2020S2
+  
+- FINC405: Mathematical Finance
+  - 2020S2
+
 - FINC102: Business Mathematics
-  - 2018S2, 2019S1
+  - 2020S1
 
 - FINC204: Personal Finance
-  - 2019SS
-
-- FINC306: Derivatives
-  - 2019S2, 2020S2
-
-- FINC405: Mathematical Finance
-  - 2019S2, 2020S2 (Co-Lecturer), 2021S2 (Co-Lecturer)
+  - 2020SS
