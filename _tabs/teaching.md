@@ -9,7 +9,7 @@ order: 2
 
 ## Tutoring
 - BSNS114: Financial Decision Making
-  - 2021S1
+  - 2021S1, 2021S2
   
 - FINC306: Derivatives
   - 2020S2
