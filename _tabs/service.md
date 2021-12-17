@@ -1,5 +1,5 @@
 ---
-title: Workshop and Seminar
+title: Service
 icon: fas fa-university
 order: 3
 ---
