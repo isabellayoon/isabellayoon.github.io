@@ -9,6 +9,7 @@ order: 1
 
 ## Conference Contribution
 - Tenth [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10-12 December 2021, Nanging, China.
+  - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, Volatility Risk Premium and the Implied Volatility Curve of VIX Options.
   - Presentor; Discussant
 
 - [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4-5 December 2020, Fudan, China.
