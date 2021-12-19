@@ -7,6 +7,10 @@ order: 2
 - BSNS114: Financial Decision Making
   - 2021S2 (Second half) (Instructor)
 
+## Guest Lecturer
+- BSNS114: Financial Decision Making
+  - 2021S1 (2 Lectures on Investment Analysis: Decision criteria & Free Cash Flow)
+
 ## Tutoring
 - BSNS114: Financial Decision Making
   - 2021S2, 2021S1
