@@ -24,5 +24,5 @@ order: 2
   - 2020SS
 
 ##
-S = Semester
-SS = Summer School
+- S = Semester
+- SS = Summer School
