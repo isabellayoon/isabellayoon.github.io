@@ -27,6 +27,4 @@ order: 2
 - FINC204: Personal Finance
   - 2020SS
 
-##
- S = Semester </br>
- SS = Summer School
+
