@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## Publications
-- Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, 2021, [The Skewness Risk in the Energy Market](https://doi.org/10.3390/jrfm14120620), [Journal of Risk and Financial Management](https://www.mdpi.com/journal/jrfm), (forthcoming).
+- Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, 2021, [The Skewness Risk in the Energy Market](https://doi.org/10.3390/jrfm14120620), [Journal of Risk and Financial Management](https://www.mdpi.com/journal/jrfm), 2021, 14(12), 620.
 
 ## Conference Contribution
 - Tenth [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10-12 December 2021, Nanging, China.
