@@ -13,11 +13,11 @@ order: 1
   - Presentor; Discussant
 
 - [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 11-12 February 2021, Tauranga, New Zealand.
-  - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., 2020, The slope of implied volatility skew of VIX options. 
+  - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., The slope of implied volatility skew of VIX options. 
   - Presentor
  
 - [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4-5 December 2020, Fudan, China.
-  - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., 2020, Does average skewness matter in the energy market?.
+  - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., Does average skewness matter in the energy market?.
   - Presentor; Discussant
 
 ## Links
