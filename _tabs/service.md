@@ -8,7 +8,7 @@ order: 3
 - [PhD Departmental Seminar](https://sites.google.com/view/uoworkshop/)
 
 
-# Group 
+# Groups 
 - Member, May 2020- Present
   - [Derivatives and Quantitative Finance Group (DQFGroup)](https://blogs.otago.ac.nz/dqfg/)
 - Commerce Representative, December 2021 - Present
