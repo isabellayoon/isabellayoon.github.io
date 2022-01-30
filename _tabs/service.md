@@ -5,7 +5,8 @@ order: 3
 ---
 
 # Departmental PhD Seminar
-- [PhD Departmental Seminar May - Present](https://sites.google.com/view/uoworkshop/)
+- Co-presentor, May 2020 - Present
+  - [PhD Departmental Seminar](https://sites.google.com/view/uoworkshop/)
 
 
 # Groups 
