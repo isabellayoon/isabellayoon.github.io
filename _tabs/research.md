@@ -15,16 +15,16 @@ order: 1
     - Presentor
 
 1. [Tenth](https://onlinelibrary.wiley.com/pb-assets/assets/10969934/Revised_ICFOD2021%20CALL%20FOR%20PAPERS%20Final%20Version%205%20October%202021%20(003)-1633444332.pdf) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10-12 December 2021, Nanging, China.
-  - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, Volatility Risk Premium and the Implied Volatility Curve of VIX Options.
-  - Presentor; Discussant
+    - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, Volatility Risk Premium and the Implied Volatility Curve of VIX Options.
+    - Presentor; Discussant
 
 1. [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 11-12 February 2021, Tauranga, New Zealand.
-  - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., The Slope of Implied Volatility Skew of VIX Options. 
-  - Presentor
+    - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., The Slope of Implied Volatility Skew of VIX Options. 
+    - Presentor
  
 1. [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4-5 December 2020, Fudan, China.
-  - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., Does Average Skewness Matter in the Energy Market?.
-  - Presentor; Discussant
+    - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., Does Average Skewness Matter in the Energy Market?.
+    - Presentor; Discussant
 
 ## Links
 - <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2709-4097" href="https://orcid.org/0000-0003-2709-4097" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> https://orcid.org/0000-0003-2709-4097</a></div>
