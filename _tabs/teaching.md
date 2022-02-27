@@ -14,6 +14,9 @@ order: 2
 ## Tutor
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
   - 2022S1, 2021S2, 2021S1
+
+- [FINC403: Studies in Capital Markets](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC403)
+  - 2022S1
   
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
   - 2020S2
