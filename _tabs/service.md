@@ -13,4 +13,4 @@ order: 3
 - Member, May 2020 - Present
   - [Derivatives and Quantitative Finance Group (DQFGroup)](https://blogs.otago.ac.nz/dqfg/)
 - Commerce Representative, December 2021 - Present
-  - [Otago Postgraduate Assosiation (OPA)](https://www.facebook.com/OtagoPostgraduateAssociation/)
+  - [Otago Postgraduate Assosiation (OPA)](https://www.ousa.org.nz/executive/otago-postgraduate-association-)
