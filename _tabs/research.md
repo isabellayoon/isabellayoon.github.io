@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## Publications
-1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, 2022, [VIX Option-Implied Volatility Slope and VIX Futures Returns](https://doi.org/10.1002/fut.22317), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), (forthcoming).
+1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, 2022, [VIX Option-Implied Volatility Slope and VIX Futures Returns](https://doi.org/10.1002/fut.22317), [*Journal of Futures Markets*](https://onlinelibrary.wiley.com/journal/10969934), 42(6), 1002-1038.
 
 1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, 2021, [The Skewness Risk in the Energy Market](https://doi.org/10.3390/jrfm14120620), [*Journal of Risk and Financial Management*](https://www.mdpi.com/journal/jrfm), 2021, 14(12), 620.
 
