@@ -4,19 +4,19 @@ icon: fas fa-university
 order: 3
 ---
 
-# Departmental PhD Seminar
+## Departmental PhD Seminar
 - Co-presentor, May 2020 - Present
   - [PhD Departmental Seminar](https://sites.google.com/view/uoworkshop/)
 
 
-# Groups 
+## Groups 
 - Member, May 2020 - Present
   - [Derivatives and Quantitative Finance Group (DQFGroup)](https://blogs.otago.ac.nz/dqfg/)
 - Commerce Postgraduate Representative, December 2021 - Present
   - [Otago Postgraduate Assosiation (OPA)](https://www.ousa.org.nz/executive/otago-postgraduate-association-)
 
 
-# Affiliations
+## Affiliations
 - Member, May 2022 - Present
   - [American Finance Association (AFA)](https://afajof.org/)
 - Member, May 2022 - Present
