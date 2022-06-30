@@ -11,7 +11,7 @@ order: 1
 
 ## Conference Contribution
 1. 26th [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, Christchurch, New Zealand.
-    - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., The Role of Hedgers and Speculators in the Currency Futures Markets.
+    - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Role of Hedgers and Speculators in the Currency Futures Markets.
     - Presentor
 
 1. [Tenth](https://onlinelibrary.wiley.com/pb-assets/assets/10969934/Revised_ICFOD2021%20CALL%20FOR%20PAPERS%20Final%20Version%205%20October%202021%20(003)-1633444332.pdf) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 10-12 December 2021, Nanging, China.
@@ -19,11 +19,11 @@ order: 1
     - Presentor; Discussant
 
 1. [New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 11-12 February 2021, Tauranga, New Zealand.
-    - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., The Slope of Implied Volatility Skew of VIX Options. 
+    - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Slope of Implied Volatility Skew of VIX Options. 
     - Presentor
  
 1. [Ninth](http://icfod.org/nd.jsp?id=50#_np=2_3) [International Conference on Futures and Other Derivatives (ICFOD)](http://icfod.org/), 4-5 December 2020, Fudan, China.
-    - Yoon, Jungah, Ruan, Xinfeng, and Zhang, Jin E., Does Average Skewness Matter in the Energy Market?.
+    - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, Does Average Skewness Matter in the Energy Market?.
     - Presentor; Discussant
 
 ## Links
