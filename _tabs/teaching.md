@@ -19,10 +19,10 @@ order: 2
   - 2022S1
   
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
-  - 2020S2
+  - 2022S2, 22020S2
   
 - [FINC405: Mathematical Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC405)
-  - 2020S2
+  - 2022S2, 2020S2
 
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
   - 2020S1
