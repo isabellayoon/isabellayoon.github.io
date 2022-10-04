@@ -16,7 +16,7 @@ order: 2
   - 2022S2, 2020S2 - [Teaching Evaluation](https://drive.google.com/file/d/11hvimN_nLGWxnis6um4cUFIDs-OG6YEr/view)
 
 - [FINC405: Mathematical Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC405)
-  - 2022S2, 2020S2
+  - 2022S2 - [Teaching Evaluation](https://drive.google.com/file/d/1cl7i3jdviubl4fhKdfZdjL-tr0DZhp41/view?usp=sharing), 2020S2
 
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
   - 2022S1 - [Teaching Evaluation](https://drive.google.com/file/d/1M6IfuBeOD4A2NfztceQakSshLs6vCLpA/view?usp=sharing), 2021S2, 2021S1
