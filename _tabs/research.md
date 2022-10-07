@@ -12,7 +12,7 @@ order: 1
 ## Conference Contribution
 1. [12th Financial Management Association Asia/Pacific Conference](https://www.fma.org/melbourne), 11 - 13 December 2022, Melbourne, Australia.
     - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Role of Hedgers and Speculators in the Currency Futures Markets.
-    - Presentor
+    - Presentor; Discussant
     
 1. [26th New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 17 - 18 February 2022, Christchurch, New Zealand.
     - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Role of Hedgers and Speculators in the Currency Futures Markets.
