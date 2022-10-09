@@ -10,7 +10,7 @@ order: 1
 1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, 2021, [The Skewness Risk in the Energy Market](https://doi.org/10.3390/jrfm14120620), [*Journal of Risk and Financial Management*](https://www.mdpi.com/journal/jrfm), 2021, 14(12), 620.
 
 ## Conferences
-1. [12th Financial Management Association (FMA) Asia/Pacific Conference](https://www.fma.org/melbourne), 11 - 13 December 2022, Melbourne, Australia.
+1. [Financial Management Association (FMA) 12th Asia/Pacific Conference](https://www.fma.org/melbourne), 11 - 13 December 2022, Melbourne, Australia.
     - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Role of Hedgers and Speculators in the Currency Futures Markets.
     - Presentor; Discussant
     
