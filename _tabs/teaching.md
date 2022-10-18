@@ -7,9 +7,11 @@ order: 2
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
   - 2021S2 (Second half) (Instructor) - [Teaching Evaluation](https://drive.google.com/file/d/1Y1b8Tst--ju_oLJWVyiuzAuOuNV80Out/view)
 
-## Guest Lecturer
+## Guest Lecturer/Speaker
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
   - 2021S1 (2 Lectures on Investment Analysis: Decision criteria & Free Cash Flow)
+- [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
+  - 2020S2 (1 Lecture on Derivatives Market: The implied volatility curve of VIX options) 
 
 ## Tutor
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
