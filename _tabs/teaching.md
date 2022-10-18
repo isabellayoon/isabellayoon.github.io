@@ -13,7 +13,7 @@ order: 2
 
 ## Tutor
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
-  - 2022S2, 2020S2 - [Teaching Evaluation](https://drive.google.com/file/d/11hvimN_nLGWxnis6um4cUFIDs-OG6YEr/view)
+  - 2022S2 - [Teaching Evaluation](https://drive.google.com/file/d/1KLymNTRFYZd7T_wsO54RvcEfv2AhMGrx/view?usp=sharing), 2020S2 - [Teaching Evaluation](https://drive.google.com/file/d/11hvimN_nLGWxnis6um4cUFIDs-OG6YEr/view)
 
 - [FINC405: Mathematical Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC405)
   - 2022S2 - [Teaching Evaluation](https://drive.google.com/file/d/1cl7i3jdviubl4fhKdfZdjL-tr0DZhp41/view?usp=sharing), 2020S2
