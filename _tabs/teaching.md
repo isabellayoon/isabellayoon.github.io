@@ -13,7 +13,7 @@ order: 2
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
   - 2020S2 (1 Lecture on Derivatives Market: The implied volatility curve of VIX options) 
 
-## Tutor
+## Tutor/Teaching Assistant
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
   - 2022S2 - [Teaching Evaluation](https://drive.google.com/file/d/1KLymNTRFYZd7T_wsO54RvcEfv2AhMGrx/view?usp=sharing), 2020S2 - [Teaching Evaluation](https://drive.google.com/file/d/11hvimN_nLGWxnis6um4cUFIDs-OG6YEr/view)
 
@@ -30,6 +30,6 @@ order: 2
   - 2020S1
 
 - [FINC204: Personal Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC204)
-  - 2020SS
+  - 2020SS, 2023SS
 
 
