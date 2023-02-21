@@ -10,8 +10,10 @@ order: 3
 
 
 ## Groups 
+- Administration Assistant, March 2023 - Present
+  - [Climate & Energy Finance Group (CEFG)](https://blogs.otago.ac.nz/cefg/)
 - Member, May 2020 - Present
-  - [Derivatives and Quantitative Finance Group (DQFGroup)](https://blogs.otago.ac.nz/dqfg/)
+  - [Derivatives and Quantitative Finance Group (DQFG)](https://blogs.otago.ac.nz/dqfg/)
 - Commerce Postgraduate Representative, December 2021 - Present
   - [Otago Postgraduate Assosiation (OPA)](https://www.ousa.org.nz/executive/otago-postgraduate-association-)
 
