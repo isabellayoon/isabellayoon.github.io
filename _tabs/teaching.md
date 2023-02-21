@@ -15,7 +15,7 @@ order: 2
 
 ## Tutor/Teaching Assistant
 - [FINC204: Personal Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC204)
-  - 2023SS, 2020SS
+  - 2023SS - [Teaching Evaluation](https://drive.google.com/file/d/1rs58F2kYawHFwbOAxyUONqge2zPHDpD8/view?usp=sharing), 2020SS
 
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
   - 2022S2 - [Teaching Evaluation](https://drive.google.com/file/d/1KLymNTRFYZd7T_wsO54RvcEfv2AhMGrx/view?usp=sharing), 2020S2 - [Teaching Evaluation](https://drive.google.com/file/d/11hvimN_nLGWxnis6um4cUFIDs-OG6YEr/view)
