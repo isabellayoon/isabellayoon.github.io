@@ -14,7 +14,7 @@ order: 3
   - [Climate and Energy Finance Group (CEFG)](https://blogs.otago.ac.nz/cefg/)
 - Member, May 2020 - Present
   - [Derivatives and Quantitative Finance Group (DQFG)](https://blogs.otago.ac.nz/dqfg/)
-- Commerce Postgraduate Representative, December 2021 - Present
+- Commerce Postgraduate Representative, December 2021 - February 2023
   - [Otago Postgraduate Assosiation (OPA)](https://www.ousa.org.nz/executive/otago-postgraduate-association-)
 
 
