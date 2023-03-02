@@ -10,7 +10,7 @@ order: 1
 1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, 2021, [The Skewness Risk in the Energy Market](https://doi.org/10.3390/jrfm14120620), [*Journal of Risk and Financial Management*](https://www.mdpi.com/journal/jrfm), 2021, <b>14</b>(12), 620.
 
 ## Conferences
-1. [27th New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 16 - 17 February 2022, Wellington, New Zealand.
+1. [27th New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 16 - 17 February 2023, Wellington, New Zealand.
     - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Information Content of the Implied Volatility Smirk of VIX and VXX on SPX Options.
     - Presentor
     
