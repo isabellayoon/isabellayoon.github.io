@@ -21,5 +21,5 @@ order: 3
 ## Affiliations
 - Member, May 2022 - Present
   - [American Finance Association (AFA)](https://afajof.org/)
-- Member, May 2022 - Present
+- Member, May 2022 - May 2023
   - [Financial Management Association (FMA)](https://www.fma.org/)
