@@ -4,11 +4,6 @@ icon: fas fa-university
 order: 3
 ---
 
-## Departmental PhD Seminar
-- Co-presentor, May 2020 - Present
-  - [PhD Departmental Seminar](https://sites.google.com/view/uoworkshop/)
-
-
 ## Groups 
 - Administrative Assistant, March 2023 - Present
   - [Climate and Energy Finance Group (CEFG)](https://blogs.otago.ac.nz/cefg/)
@@ -17,6 +12,9 @@ order: 3
 - Commerce Postgraduate Representative, December 2021 - February 2023
   - [Otago Postgraduate Assosiation (OPA)](https://www.ousa.org.nz/executive/otago-postgraduate-association-)
 
+## Departmental PhD Seminar
+- Co-presentor, May 2020 - May 2023
+  - [PhD Departmental Seminar](https://sites.google.com/view/uoworkshop/)
 
 ## Affiliations
 - Member, May 2022 - Present
