@@ -5,7 +5,7 @@ order: 3
 ---
 
 ## Groups 
-- RA Administrative Assistant, March 2023 - Present
+- Administrative Assistant, March 2023 - Present
   - [Climate and Energy Finance Group (CEFGroup)](https://blogs.otago.ac.nz/cefg/)
 - Member, May 2020 - Present
   - [Derivatives and Quantitative Finance Group (DQFG)](https://blogs.otago.ac.nz/dqfg/)
