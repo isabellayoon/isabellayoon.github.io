@@ -3,6 +3,13 @@ title: Teaching
 icon: fas fa-chalkboard-teacher
 order: 2
 ---
+
+## Teaching Fellow
+- [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
+  - 2023S2
+- [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
+  - 2021S2 (Second half) (Instructor) - [Teaching Evaluation](https://drive.google.com/file/d/1Y1b8Tst--ju_oLJWVyiuzAuOuNV80Out/view)
+
 ## Tutor/Teaching Assistant
 - [FINC204: Personal Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC204)
   - 2023SS - [Teaching Evaluation](https://drive.google.com/file/d/1rs58F2kYawHFwbOAxyUONqge2zPHDpD8/view?usp=sharing), 2020SS
@@ -21,10 +28,6 @@ order: 2
 
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
   - 2020S1
-
-## Teaching Fellow
-- [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
-  - 2021S2 (Second half) (Instructor) - [Teaching Evaluation](https://drive.google.com/file/d/1Y1b8Tst--ju_oLJWVyiuzAuOuNV80Out/view)
 
 ## Guest Lecturer/Speaker
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
