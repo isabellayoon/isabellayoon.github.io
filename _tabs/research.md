@@ -30,8 +30,8 @@ order: 1
     - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Slope of Implied Volatility Skew of VIX Options. 
     - Presentor
  
-1. 9th International Conference on Futures and Other Derivatives (ICFOD), 4-5 December 2020, Nanging, China.
-    - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, Does Average Skewness Matter in the Energy Market?.
+1. 9th International Conference on Futures and Other Derivatives (ICFOD), 4-5 December 2020, Nanjing, China.
+    - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, Does Average Skewness Matter in the Energy Market?
     - Presentor; Discussant
 
 ## Links
