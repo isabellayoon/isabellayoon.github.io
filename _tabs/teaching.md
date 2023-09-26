@@ -5,7 +5,7 @@ order: 2
 ---
 
 ## Teaching Fellow
-- [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC102)
+- [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers?papercode=FINC102#t-2023)
   - 2023S2
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
   - 2021S2 (Second half) (Instructor) - [Teaching Evaluation](https://drive.google.com/file/d/1Y1b8Tst--ju_oLJWVyiuzAuOuNV80Out/view)
