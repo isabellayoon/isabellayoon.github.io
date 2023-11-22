@@ -4,7 +4,9 @@ icon: fas fa-university
 order: 3
 ---
 
-## Groups 
+## Groups/Roles 
+- Course Approver/Member, September 2023 - Present
+  - AKO teaching and learning committee, [Department of Accountancy and Finance](https://www.otago.ac.nz/accountancyfinance/about)
 - Research and Administrative Assistant, March 2023 - Present 
   - [Climate and Energy Finance Group (CEFGroup)](https://blogs.otago.ac.nz/cefg/)
 - Member, May 2020 - Present
