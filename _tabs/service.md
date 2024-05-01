@@ -7,7 +7,7 @@ order: 3
 ## Groups/Roles 
 - Course Approver/Member, September 2023 - Present
   - AKO teaching and learning committee, [Department of Accountancy and Finance](https://www.otago.ac.nz/accountancyfinance/about)
-- Research and Administrative Assistant, March 2023 - Present 
+- Deputy Director, March 2024 - Present 
   - [Climate and Energy Finance Group (CEFGroup)](https://blogs.otago.ac.nz/cefg/)
 - Member, May 2020 - Present
   - [Derivatives and Quantitative Finance Group (DQFG)](https://blogs.otago.ac.nz/dqfg/)
