@@ -9,8 +9,22 @@ order: 1
 
 1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, 2021, [The Skewness Risk in the Energy Market](https://doi.org/10.3390/jrfm14120620), [*Journal of Risk and Financial Management*](https://www.mdpi.com/journal/jrfm), 2021, <b>14</b>(12), 620.
 
+## Working papers
+1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The role of hedgers and speculators in the currency futures markets.
+   
+1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Information Content of the Implied Volatility Smirk of VIX and VXX on SPX Options.
+   
+1. In, Soh Young, Jungah, Yoon, Gaku, Morio, and Christopher D. Manning. When Do Firms Oversell or Undersell Their Environmental Sustainability? An Empirical Analysis of Corporate Environmental Communication.
 
 ## Conferences
+1. [Sustainable Transition with AI (STAI) Workshop](https://stai.jeju.ai/), 5 August 2024, Jenu-Island, South Korea.
+    - In, Soh Young, Jungah, Yoon, Gaku, Morio, and Christopher D. Manning, When Do Firms Oversell or Undersell Their Environmental Sustainability? An Empirical Analysis of Corporate Environmental Communication.
+    - Co-Presentor
+
+1. [33rd International Joint Conference on Artificial Intelligence](https://www.ijcai.org/proceedings/2024/1024), 3-9 August 2024, Jenu-Island, South Korea.
+    - Morio, Gaku, Soh Young In, Jungah Yoon, Harri Rowlands, Christopher Manning. ReportParse: A Unified NLP Tool for Extracting Document Structure and Semantics of Corporate Sustainability Reporting.
+    - Co-Presentor
+
 1. [27th New Zealand Finance Colloquium (NZFC)](https://www.nzfc.ac.nz/), 16 - 17 February 2023, Wellington, New Zealand.
     - Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Information Content of the Implied Volatility Smirk of VIX and VXX on SPX Options.
     - Presentor
