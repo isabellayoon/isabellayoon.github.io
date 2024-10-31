@@ -6,6 +6,8 @@ order: 2
 
 ## Teaching Fellow
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
+  - 2024S2 (Instructor & Course Coordinator)
+- [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
   - 2024S1 (Instructor & Course Coordinator)
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers?papercode=FINC102#t-2023)
   - 2023S2 (Instructor & Course Coordinator) - [Teaching Evaluation](https://drive.google.com/file/d/1ReDAyzvR-NXOF9X_mcnxsQlTif5lfYnT/view?usp=sharing)
