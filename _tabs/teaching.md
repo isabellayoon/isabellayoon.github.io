@@ -3,29 +3,38 @@ title: Teaching
 icon: fas fa-chalkboard-teacher
 order: 2
 ---
-
+## Senior Teaching Fellow
+- [FINC305: International Financial Management](https://www.otago.ac.nz/courses/papers?papercode=FINC305)
+  - 2026S1 (Instructor & Course Coordinator)
+- [ENTR211: Entrepreneurial Capital and Valuation](https://www.otago.ac.nz/courses/papers?papercode=ENTR211)
+  - 2026S1 (Instructor & Course Coordinator)
+- [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
+  - 2026S2 (Instructor & Course Coordinator)
+ 
 ## Teaching Fellow
+- [FINC305: International Financial Management](https://www.otago.ac.nz/courses/papers?papercode=FINC305)
+  - 2025S1 (Instructor & Course Coordinator)
+- [ENTR211: Entrepreneurial Capital and Valuation](https://www.otago.ac.nz/courses/papers?papercode=ENTR211)
+  - 2025S1 (Instructor & Course Coordinator)
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
-  - 2024S2 (Instructor & Course Coordinator)
-- [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
-  - 2024S1 (Instructor & Course Coordinator)
+  - 2024S1 & 2024S2 & 2025S2 (Instructor & Course Coordinator)
 - [FINC102: Business Mathematics](https://www.otago.ac.nz/courses/papers?papercode=FINC102#t-2023)
-  - 2023S2 (Instructor & Course Coordinator) - [Teaching Evaluation](https://drive.google.com/file/d/1ReDAyzvR-NXOF9X_mcnxsQlTif5lfYnT/view?usp=sharing)
+  - 2023S2 (Instructor & Course Coordinator) 
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
-  - 2021S2 (Second half) (Instructor) - [Teaching Evaluation](https://drive.google.com/file/d/1Y1b8Tst--ju_oLJWVyiuzAuOuNV80Out/view)
+  - 2021S2 (Second half) (Instructor) 
 
 ## Tutor/Teaching Assistant
 - [FINC204: Personal Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC204)
-  - 2023SS - [Teaching Evaluation](https://drive.google.com/file/d/1rs58F2kYawHFwbOAxyUONqge2zPHDpD8/view?usp=sharing), 2020SS
+  - 2023SS, 2020SS
 
 - [FINC306: Derivatives](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC306)
-  - 2022S2 - [Teaching Evaluation](https://drive.google.com/file/d/1KLymNTRFYZd7T_wsO54RvcEfv2AhMGrx/view?usp=sharing), 2020S2 - [Teaching Evaluation](https://drive.google.com/file/d/11hvimN_nLGWxnis6um4cUFIDs-OG6YEr/view)
+  - 2022S2, 2020S2
 
 - [FINC405: Mathematical Finance](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC405)
-  - 2022S2 - [Teaching Evaluation](https://drive.google.com/file/d/1cl7i3jdviubl4fhKdfZdjL-tr0DZhp41/view?usp=sharing), 2020S2
+  - 2022S2, 2020S2
 
 - [BSNS114: Financial Decision Making](https://www.otago.ac.nz/courses/papers/index.html?papercode=BSNS114)
-  - 2022S1 - [Teaching Evaluation](https://drive.google.com/file/d/1M6IfuBeOD4A2NfztceQakSshLs6vCLpA/view?usp=sharing), 2021S2, 2021S1
+  - 2022S1, 2021S2, 2021S1
 
 - [FINC403: Studies in Capital Markets](https://www.otago.ac.nz/courses/papers/index.html?papercode=FINC403)
   - 2022S1
