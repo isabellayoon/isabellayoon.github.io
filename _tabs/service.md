@@ -9,7 +9,7 @@ order: 3
   - [Climate and Energy Finance Group (CEFGroup)](https://blogs.otago.ac.nz/cefg/)
 - Activity Coordinator, October 2023 - Present
   - [Department of Accountancy and Finance](https://www.otago.ac.nz/accountancyfinance/about) 
-- Course Approver/Member, September 2023 - Present
+- Course Adviser/Approver, September 2023 - Present
   - AKO teaching and learning committee, [Department of Accountancy and Finance](https://www.otago.ac.nz/accountancyfinance/about)
 
 ## Departmental PhD Seminar
