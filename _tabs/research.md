@@ -14,9 +14,9 @@ order: 1
    
 1. Yoon, Jungah, Xinfeng Ruan, and Jin E. Zhang, The Information Content of the Implied Volatility Smirk of VIX and VXX on SPX Options.
    
-1. In, Soh Young, Jungah, Yoon, Gaku, Morio, and Christopher D. Manning. When Do Firms Oversell or Undersell Their Environmental Sustainability? An Empirical Analysis of Corporate Environmental Communication.
-
 1. In, Soh Young, Jungah, Yoon, Gaku, Morio, and Christopher D. Manning. Strategic Vocalness and ESG Accountability: NLP-Based Analysis of Corporate Environmental Communication, Performance, and Evaluation.  
+
+1. In, Soh Young, Jungah, Yoon, Gaku, Morio, and Christopher D. Manning. When Do Firms Oversell or Undersell Their Environmental Sustainability? An Empirical Analysis of Corporate Environmental Communication.
 
 ## Conferences
 1. [Sustainable Transition with AI (STAI) Workshop](https://stai.jeju.ai/), 5 August 2024, Jeju-Island, South Korea.
